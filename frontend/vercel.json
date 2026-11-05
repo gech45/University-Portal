@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://university-portal-zucv.onrender.com/api/:path*"
+    }
+  ]
+}
