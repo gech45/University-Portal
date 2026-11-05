@@ -5,7 +5,7 @@
       "destination": "https://university-portal-zucv.onrender.com/api/:path*"
     },
     {
-      "source": "/(.*)",
+      "source": "/:path*",
       "destination": "/index.html"
     }
   ]
